@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "apiRevision": "1",
+    "authenticationSettings": {},
+    "displayName": "starwars-syngql",
+    "isCurrent": true,
+    "path": "starwars-syngql",
+    "protocols": [
+      "https",
+      "wss"
+    ],
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": false,
+    "type": "graphql"
+  }
+}

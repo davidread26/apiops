@@ -1,0 +1,11 @@
+{
+  "properties": {
+    "credentials": {
+      "instrumentationKey": "{{Logger-Credentials--645465284634610da0c737b0}}"
+    },
+    "description": "Logger to Azure Application Insights",
+    "isBuffered": false,
+    "loggerType": "applicationInsights",
+    "resourceId": "/subscriptions/c87e59c2-f0fc-4e1f-8a94-af801b60decf/resourceGroups/rg-ACETest/providers/Microsoft.Insights/components/appi-xekb7t6tcr2zo"
+  }
+}
